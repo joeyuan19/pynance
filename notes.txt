@@ -1,0 +1,7 @@
+Yahoo Finance vs Google Finance
+==========
+Seem to be comparable in quality of info
+Google seems to be distancing itself from finanace, limiting and API
+Google finance data available from Quandi and YQL
+
+

@@ -1,0 +1,3 @@
+[ ] Beta
+    [ ] Analyze all 1 to 1 Stock comparisons in a given market
+    [ ] Weekly, Monthly, Yearly, etc
